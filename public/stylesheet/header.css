@@ -186,3 +186,27 @@ nav ul li ul li a {
 .activate{
     text-decoration: line-through;
 }
+
+/*
+FOOTER CSS
+*/
+
+/*end part*/
+.end{
+  text-align: center;
+  padding: 20px 0 20px 0;
+  letter-spacing: 0.8px;
+  color: rgba(255,255,255,0.95);
+}
+#end-color{
+  background-color: #2d4659;
+}
+.end a:hover{
+  color: rgba(255,255,255,0.3);
+}
+#foot{
+  border-top: 2px solid white;
+  padding-top: 10px;
+  width: 30%;
+  margin: 1px auto;
+}
